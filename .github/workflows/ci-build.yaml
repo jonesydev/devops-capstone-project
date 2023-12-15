@@ -1,4 +1,4 @@
-name: CI Build oops!
+name: CI Build
 on:
   push:
     branches:
